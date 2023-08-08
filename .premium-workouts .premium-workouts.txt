@@ -1,0 +1,54 @@
+.premium-workouts .premium-workouts-title h2 {
+    font-size: 60px;
+    max-width: 100%;
+    position: static;
+}
+
+.premium-workouts .premium-workouts-title p {
+    font-size: 20px;
+    max-width: 500px;
+    text-align: left;
+}
+
+.premium-workouts {
+    padding-top: 200px;
+    position: relative;
+    width: 100%;
+    background-color: #081158;
+    color: white;
+
+}
+
+.premium-workouts .free-plan-workouts .feature-images__card {
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+
+.premium-workouts h5 {
+    text-align: left;
+    font-size: 35px;
+    margin-bottom: 15px;
+}
+
+.premium-workouts a {
+    text-decoration: none;
+    color: #081158;
+}
+
+.premium-workout-description h5 {
+    color: #081158;
+    text-align: center;
+    font-size: 25px;
+}
+
+.premium-workout-description span {
+    color: #081158;
+    font-size: 20px;
+
+}
+
+.premium-workout-description .premium-workout-price h6 {
+    font-size: 20px;
+}
